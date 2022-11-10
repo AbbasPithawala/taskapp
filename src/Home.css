@@ -1,0 +1,25 @@
+.container-box {
+    margin-top: 50px;
+    height: 80vh;
+}
+
+.GridContainer {
+    height: 100%;
+    padding-left: 30px;
+}
+
+.MuiGrid-item{
+    padding-right: 40px;
+    height: 100%;
+}
+
+.GridItem{
+    padding-right: 40px;
+    /* height: 100%; */
+    background-color: #E4E7EE !important;
+    border: 0px;
+    
+    border-radius: 0 !important;
+    box-shadow: none;
+
+}
